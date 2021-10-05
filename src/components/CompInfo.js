@@ -1,10 +1,10 @@
-export const skills = () => {
+export const compInfo = () => {
     return(
         <div>
             <div className="d-flex justify-content-center">
                 <div className="col-md-3">
                     <h1 className="d-flex justify-content-center">
-                    Compétences
+                    Info complémentaires
                     </h1><br/>
 
                 </div>

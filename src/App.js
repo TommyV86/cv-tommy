@@ -7,6 +7,7 @@ import { infoPerso } from './components/PersInfo';
 import { proExp } from './components/ProExp';
 import { formations } from './components/Formations';
 import { skills } from './components/Skills';
+import { compInfo } from './components/CompInfo';
 
 
 function App() {
@@ -26,7 +27,7 @@ function App() {
             <Route path="/expProfessionnelles" exact component={proExp}/>
             <Route path="/formations" exact component={formations}/>
             <Route path="/competences" exact component={skills}/>
-            <Route path="/infoComplementaires" exact component={infoPerso}/>
+            <Route path="/infoComplementaires" exact component={compInfo}/>
           </Switch>
 
         </main>
