@@ -11,7 +11,7 @@ export const infoPerso = () => {
                         Date de naissance:</h5>
                         <p>30/05/1986</p>
                         <h5>Niveau d'expérience global:</h5>
-                        <p>Jeune diplômé(e)</p>
+                        <p>Etudiant</p>
                         <h5>Secteur:</h5>
                         <p>Numérique et développement informatique</p>
                         <br/><br/><br/>

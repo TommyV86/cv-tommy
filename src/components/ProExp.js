@@ -6,7 +6,9 @@ export const proExp = () => {
                     <h1 className="d-flex justify-content-center">
                     Exp Pro
                     </h1><br/>
-                    <h2 className="d-flex justify-content-center">Conducteur de ligne</h2><br/><br/>
+                    <h2 className="d-flex justify-content-center">
+                        Conducteur de ligne
+                    </h2><br/><br/>
                     <h3>Alsthrom - Bousbecque (59)</h3>
                     <h4>De Février 2019 à Octobre 2019</h4>
                     <p>
